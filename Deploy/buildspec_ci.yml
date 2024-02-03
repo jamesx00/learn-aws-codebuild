@@ -1,0 +1,10 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo "Build started on `date`"
+      - echo "Compiling the code"
+      - echo "Unit tests"
+      - echo "Integration tests"
+      - echo "Build completed on `date`"
