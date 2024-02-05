@@ -3,4 +3,4 @@ class SomeClass:
         return True
 
     def return_false(self):
-        return True
+        return False
